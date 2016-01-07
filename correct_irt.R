@@ -33,6 +33,7 @@ input_file <- args$input_file
 output_dir <- args$output_dir
 suffix <- args$suffix
 points <- args$points
+irt_table <- args$irt_table
 
 #input_file = "../../results/2016-01-04/spectrast_results/umpire_34_single_irt_cons_openswath.csv"
 irt_table = "~/projects/microSWATH_library/results/2015-12-05/iRT_microSWATH.txt"
